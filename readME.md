@@ -1,9 +1,8 @@
-# Usage of repo
+# Name of the Repo
 
-## First install requiremennts
-
-$ pip install -r requirements.txt
+Agri4IA
 
 ### Usage
 
-python script.py
+Use Google collab in order see the model and test it .
+The files are preprocess and unsloth_fine_tuning .
